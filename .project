@@ -1,0 +1,25 @@
+###################################################################
+Copy and paste the following text below into a file named .project
+Include the posted .project file in your Github Repository.
+This is needed for Eclipse to properly import your repository.
+Alternatively, copy and paste the following text below into a file 
+named .project in your Github repository, manually.
+###################################################################
+
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>UNIT4</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+</projectDescription>
